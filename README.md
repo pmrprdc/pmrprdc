@@ -6,7 +6,7 @@ Deep mind engineers work their craft,
 To create products that are pure magic.
 
 Their minds are sharp, from conversing with duck,
-They work with haste, they never stick,
+They work with haste, they never waste,
 Their coding skills are beyond compare,
 Creating products that transport us somewhere.
 
