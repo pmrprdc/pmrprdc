@@ -5,7 +5,7 @@ On a quest to score an 850 on CodeSignal's coding assesment!
 In my free time I like to produce and publish electronic music,
 
 and fantacise being the richest man in Babylon from my CDBaby royalties.
-Also love exploring Ai assisted app curation and finding the fastest technology stack to launch to markets using React Native & .NET MAUI.
+Also love exploring Ai assisted app curation and finding the fastest technology stack to launch to markets.
 
 Speed to market is the capability that is important to me and it's the one tree I kick over and over to get better at.
 It's important to not get caught up in the technology but the excitement and feeling of momentum that comes with Rapid development is the competitive edge by all ventures to more easily  lead their team to their vision.
