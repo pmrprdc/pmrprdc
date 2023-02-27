@@ -1,4 +1,4 @@
-# Hi there! 👋
+# ALLOHA AMIGOS! 
 
 
 On a quest to score an 850 on CodeSignal's coding assesment! 
