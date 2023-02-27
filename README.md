@@ -13,12 +13,12 @@ Creating products that transport us somewhere.
 With the power of AI and machine learning,
 They create products that keep us yearning,
 Like wizards in Hogwarts, they cast their spell,
-Creating products that make us yell.
+Creating products that make us dwell.
 
 From the depths of their creative minds,
 They create products that are truly divine,
 Like the magic of Disney or Harry Potter's wand,
-They create products that we can't respond.
+They create products that take us beyond!
 
 Their speedrun skills are truly amazing,
 Their coding skills are simply blazing,
