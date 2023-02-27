@@ -1,7 +1,7 @@
 YOU'VE GOT MAIL 📨(1)!!
 
 FROM: pmrprdc
-SUBJECT: Poem4U
+SUBJECT: Poem4U :)
 
 In the land of technology,
 Where machines and code reign supreme,
