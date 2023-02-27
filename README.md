@@ -41,7 +41,7 @@ And the App's are SMASHIN!
 
 -#AI-assisted pmrprdc 
 
-On a quest to score an 850 on CodeSignal's coding assessment! In my free time, I produce and publish electronic music, and fantasize about being the richest man in Babylon from my CDBaby royalties. I specialize in AI-assisted app curation and rapid launch to market using tech stacks. I'm also experienced in AI content creation and language models. I love working with entrepreneurs and startups to help bring their ideas to life.
+On a quest to score an 850 on CodeSignal's coding assessment! In my free time, I produce and publish electronic music, and fantasize about being the richest man in Babylon from my CDBaby royalties. I specialize in AI-assisted app curation and rapid launch to market using the leanest and meanest tech stacks. I'm also experienced in AI content creation and language models. I love working with entrepreneurs and startups to help bring their ideas to life.
 
 ## Skills
 
