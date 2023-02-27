@@ -5,7 +5,7 @@ Where machines and code reign supreme,
 Deep mind engineers work their craft,
 To create products that are pure magic.
 
-Their minds are sharp, their typing quick,
+Their minds are sharp, from conversing with duck,
 They work with haste, they never stick,
 Their coding skills are beyond compare,
 Creating products that transport us somewhere.
