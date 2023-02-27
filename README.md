@@ -1,6 +1,36 @@
 # ALOHA AMIGAS!
 
-# Pamir Perdeci
+In the land of technology,
+Where machines and code reign supreme,
+Deep mind engineers work their craft,
+To create products that are pure magic.
+
+Their minds are sharp, their typing quick,
+They work with haste, they never stick,
+Their coding skills are beyond compare,
+Creating products that transport us somewhere.
+
+With the power of AI and machine learning,
+They create products that keep us yearning,
+Like wizards in Hogwarts, they cast their spell,
+Creating products that make us yell.
+
+From the depths of their creative minds,
+They create products that are truly divine,
+Like the magic of Disney or Harry Potter's wand,
+They create products that we can't respond.
+
+Their speedrun skills are truly amazing,
+Their coding skills are simply blazing,
+Their products are like original motion pictures,
+Filled with magic, wonder, and adventure.
+
+So let's give a round of applause,
+For these engineers who work without pause,
+For their magic, intelligence, and passion,
+And the products that they create with satisfaction.
+
+-#AI-assisted pmrprdc 
 
 On a quest to score an 850 on CodeSignal's coding assessment! In my free time, I produce and publish electronic music, and fantasize about being the richest man in Babylon from my CDBaby royalties. I specialize in AI-assisted app curation and rapid launch to market using React Native. I'm also experienced in AI content creation and language models. I love working with entrepreneurs and startups to help bring their ideas to life.
 
