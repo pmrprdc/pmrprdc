@@ -28,7 +28,7 @@ Filled with magic, wonder, and adventure.
 So let's give a round of applause,
 For these engineers who work without pause,
 For their magic, intelligence, and passion,
-And the products are SMASHIN!
+And the App's are SMASHIN!
 
 -#AI-assisted pmrprdc 
 
