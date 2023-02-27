@@ -5,7 +5,7 @@ Where machines and code reign supreme,
 Deep mind engineers work their craft,
 To create products that are pure magic.
 
-Their minds are sharp, from conversing with duck,
+Their minds are sharp, from conversing with 'DUCK',
 They work with haste, they never waste,
 Their coding skills are beyond compare,
 Creating products that transport us somewhere.
@@ -28,7 +28,7 @@ Filled with magic, wonder, and adventure.
 So let's give a round of applause,
 For these engineers who work without pause,
 For their magic, intelligence, and passion,
-And the products that they create with satisfaction.
+And the products are SMASHIN!
 
 -#AI-assisted pmrprdc 
 
