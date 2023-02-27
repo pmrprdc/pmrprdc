@@ -53,7 +53,7 @@ I've started documenting some speedrun builds as a way to practice the rapid dev
 
 ### Robotic Process Automation
 
-I love pondering about projects that involve robotic process automation or hydroponic no waste cities. I write these ideas down in a potential futures folder so I can spend most of my time focused on the main thing I'm solving.
+I love pondering about projects that involve robotic process automation or hydroponic no waste cities with Pizza Vending machines. I write these ideas down in a potential futures folder so I can spend most of my time focused on the main thing I'm solving.
 
 ## Technologies I'm Excited to Learn
 
