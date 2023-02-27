@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**pmrprdc/pmrprdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer on a journey to achieve an 850 on the CodeSignal GCA! I specialize in Ai assisted app curation and rapid launch to market using React Native. I'm also experienced in AI content creation and language models. I love working with entrepreneurs and startups to help bring their ideas to life.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Ai assisted app curation
+- Rapid development
+- React Native
+- AI content creation
+- Language models & prompt engineering
+
+## Contact Me
+
+- Email: pamirperdeci@gmail.com
+- LinkedIn: linkedin.com/pamirperdeci
+
+Let's work together and build something amazing!
