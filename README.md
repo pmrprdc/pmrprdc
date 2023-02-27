@@ -1,4 +1,4 @@
-# ALOHA AMIGOS, AMIGAS
+# ALOHA AMIGAS!
 
 # Pamir Perdeci
 
