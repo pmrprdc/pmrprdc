@@ -29,6 +29,11 @@ Their coding skills are simply blazing,
 Their products are like original motion pictures,
 Filled with magic, wonder, and adventure.
 
+Their speedrun skills are second to none,
+Their coding skills are brighter than the sun,
+Their products are like original motion pictures,
+And they never fail to deliver.
+
 So let's give a round of applause,
 For these engineers who work without pause,
 For their magic, intelligence, and passion,
